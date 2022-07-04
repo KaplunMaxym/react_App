@@ -1,0 +1,9 @@
+.buttonOne{
+    padding: 5px 15px;
+    color: teal;
+    font-size: 15px;
+    background: transparent;
+    border: 2px solid teal;
+    cursor: pointer;
+    margin-left: 2px;
+}
